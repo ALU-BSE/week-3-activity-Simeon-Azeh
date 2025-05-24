@@ -1,0 +1,7 @@
+GET https://api.github.com/users/octocat
+
+###
+
+GET https://api.github.com/users/octocat/repos
+
+###
